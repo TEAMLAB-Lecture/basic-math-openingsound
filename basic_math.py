@@ -45,4 +45,3 @@ def get_median(number_list):
 
     return median
 
-g
